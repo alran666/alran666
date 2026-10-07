@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My GitFut card](https://gitfut.com/alran666.png?country=CN)](https://gitfut.com/alran666)
 
 <!--
 **alran666/alran666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
